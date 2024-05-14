@@ -1,0 +1,6 @@
+@CapitalProject_HostAddress = http://localhost:5171
+
+GET {{CapitalProject_HostAddress}}/
+Accept: application/json
+
+###
